@@ -1,0 +1,3 @@
+[submodule "mupen64plus-core-rr"]
+	path = mupen64plus-core-rr
+	url = https://github.com/Madghostek/mupen64plus-core-rr
