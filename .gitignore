@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/projects/msvc/Mupen64plus-rerecording/.vs/Mupen64plus-rerecording/v16
