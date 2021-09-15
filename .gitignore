@@ -31,3 +31,6 @@
 *.out
 *.app
 \.vs
+/projects/msvc/Debug
+/projects/msvc/Win32/Debug
+/projects/msvc/x64/Debug
