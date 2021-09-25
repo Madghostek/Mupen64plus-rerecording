@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mupen64plus-rerecording", "Mupen64plus-rerecording.vcxproj", "{80099E22-62A0-4A3A-B526-FEEC616F2408}"
+	ProjectSection(ProjectDependencies) = postProject
+		{92D3FEB9-2129-41C5-8577-BCD7D961EF41} = {92D3FEB9-2129-41C5-8577-BCD7D961EF41}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mupen64plus-core-rr", "..\..\mupen64plus-core-rr\projects\msvc\mupen64plus-core-rr.vcxproj", "{92D3FEB9-2129-41C5-8577-BCD7D961EF41}"
 EndProject
